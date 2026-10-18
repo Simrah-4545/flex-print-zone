@@ -56,14 +56,6 @@ export const BUSINESS_CONFIG = {
       image: "/IMAGES/FLEX BOARD.jpeg",
     },
     {
-      id: "frontlit-flex",
-      title: "Frontlit Flex",
-      shortDesc: "Standard high-durability outdoor frontlit flex banners with vivid color brilliance.",
-      forText: "Outdoor Banners, Event Backdrops, Temporary Signage",
-      category: "Flex",
-      image: "/IMAGES/FLEX BANNER.jpeg",
-    },
-    {
       id: "3d-acrylic-letter",
       title: "3D Acrylic Letter",
       shortDesc: "Illuminated 3D acrylic LED channel letter signboards for premium store entrances.",
